@@ -1,7 +1,9 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+
+// Ganti dari import menjadi path langsung karena file ada di folder static/img
+const logo = "/img/logo-esteh.jpg";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -15,8 +17,9 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <img src={logo} alt="Es Teh Nusantara" style={{ height: "50px" }} />
           </Link>
+
           {/* Hamburger menu */}
           <button
             className={`navbar-burger burger ${isActive && "is-active"}`}
@@ -34,10 +37,6 @@ const Navbar = () => {
             isActive && "is-active"
           }`}
         >
-          {/* TODO: inline override of padding is a result of refactoring
-                to a ul for accessibilty purposes, would like to see a css
-                re-write that makes this unneccesary.
-             */}
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/about">
               About

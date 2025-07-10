@@ -1,101 +1,93 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Es Teh Nusantara
+image: /img/gerobahteh.jpg
+heading: Kesegaran Teh dengan Kesadaran
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Es Teh Nusantara adalah tempat terbaik bagi pecinta teh yang ingin mengenal
+  asal usul tehnya sekaligus berkontribusi terhadap petani yang menanamnya.
+  Kami serius dalam hal produksi teh, peracikan, hingga penyajiannya, dan kami
+  senang berbagi pengetahuan itu kepada siapa pun.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/yakul.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kami menjual teh segar dalam bentuk seduhan dan kemasan yang
+        langsung berasal dari kebun teh rakyat. Kami bangga menyuguhkan beragam
+        varian teh yang diracik dengan penuh perhatian terhadap lingkungan dan
+        komunitas lokal. Cek postingan kami atau hubungi langsung untuk info ketersediaan.
+    - image: /img/taro.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Kami juga menyediakan berbagai perlengkapan menyeduh teh—dari
+        teko kaca, botol infuser, hingga gelas khas Nusantara. Cocok untuk semua
+        tingkat pengalaman, baik pemula maupun pecinta teh sejati.
+    - image: /img/pich.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Ingin tahu cara membuat teh terbaik di rumah? Kami menyediakan
+        konsultasi privat dengan peracik teh kami. Jadwalkan sesi 1-on-1 untuk belajar
+        tentang peracikan dan penyajian teh. Hubungi kami untuk detailnya.
+    - image: /img/orijenal.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Kami percaya teh dapat menyatukan banyak orang. Sebagian toko kami disulap
+        menjadi ruang kumpul pecinta teh—dilengkapi galeri seni dan diskusi budaya.
+        Seluruh hasil penjualan karya seni diberikan sepenuhnya kepada seniman.
+  heading: Apa yang Kami Tawarkan
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Es Teh Nusantara bukan hanya tentang minuman—ini tentang perjalanan dari
+    kebun ke gelas, tentang kisah petani, dan tentang cinta pada produk lokal.
+    Kami membawa semangat perubahan melalui rasa yang menyegarkan.
 main:
-  heading: Great coffee with no compromises
+  heading: Teh Hebat Tanpa Kompromi
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Kami menjaga kualitas teh kami dari daun hingga ke gelas. Setiap langkah
+    proses dilakukan secara transparan dan bertanggung jawab. Kami mengunjungi
+    langsung kebun teh untuk memastikan kualitas terbaik bagi lingkungan dan petani.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Daun teh dalam filter seduhan
+    image: /img/daunteh.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Segelas teh hijau di atas meja kayu
+    image: /img/bubuk esteh.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Daun teh kering siap seduh
+    image: /img/bubuk dan teh.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Budi
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      Pertama kali mencoba Es Teh Nusantara, rasanya benar-benar segar dan
+      saya bangga bisa mendukung petani lokal.
+  - author: Sari
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Saya suka konsepnya dan tehnya juga enak sekali! Tempat yang pas untuk
+      belajar tentang teh Nusantara.
+full_image: /img/bubuk.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Paket Berlangganan
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Kami memudahkan kamu menikmati teh berkualitas setiap bulan. Pilih paket
+    langganan yang sesuai kebutuhanmu dan nikmati teh Nusantara di rumah.
+    Hubungi kami untuk info lebih lanjut.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Cocok untuk penikmat teh 1-2 gelas per hari.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - 3 pak teh per bulan
+        - Teh hijau atau teh hitam
+        - Satu atau dua varian teh
+      plan: Basic
+      price: '50.000'
+    - description: 'Pas untuk pecinta teh sejati, keluarga, atau komunitas kecil'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 6 pak teh per bulan
+        - Pilihan teh hijau, hitam, atau oolong
+        - Hingga 4 varian teh berbeda
+      plan: Premium
+      price: '100.000'
+    - description: Ingin mencoba banyak varian? Pilih paket custom kami!
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Sesuai kebutuhanmu
+        - Semua jenis teh Nusantara
+        - Varian tanpa batas
       plan: Custom
       price: '??'
 ---

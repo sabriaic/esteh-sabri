@@ -1,19 +1,21 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Tentang Es Teh Nusantara
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Teh Daun Asli dari Nusantara  
+Es Teh Nusantara menghadirkan cita rasa teh segar dari daun pilihan yang dipetik langsung dari kebun rakyat. Kami menjaga keaslian rasa dengan tetap mempertahankan metode penyeduhan tradisional yang sudah turun-temurun.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Asal Tunggal  
+Kami percaya setiap jenis teh memiliki identitas unik. Oleh karena itu, kami menghadirkan teh dari satu daerah tertentu (single origin) agar kamu bisa menikmati karakter dan aroma khas dari tiap wilayah Nusantara.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Pertanian Berkelanjutan  
+Kami mendukung pertanian teh yang berkelanjutan dengan memperhatikan keseimbangan antara kebutuhan ekonomi petani dan kelestarian lingkungan. Kami memilih petani yang menggunakan metode alami dan ramah lingkungan.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Kemitraan Langsung  
+Kami menjalin hubungan langsung dengan para petani teh tanpa perantara. Dengan sistem ini, petani mendapatkan harga yang adil, dan kami dapat memastikan kualitas daun teh terbaik untuk setiap produk kami.
+
+### Investasi Sosial  
+20% dari keuntungan kami kami kembalikan ke masyarakat sekitar dalam bentuk dukungan untuk kebun teh, UMKM lokal, dan fasilitas pendidikan. Kamu bisa melihat dampaknya secara langsung melalui program komunitas kami.
+
